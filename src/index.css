@@ -17,8 +17,17 @@ body, body > div {
 }
 
 #navbar {
+	background-color: #292939;
+	color: white;
 	padding: 2em;
 	justify-content: space-evenly;
+}
+
+a {
+	font-size: larger;
+}
+a:visited {
+	color: white;
 }
 
 #main-section {
